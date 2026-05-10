@@ -18,13 +18,14 @@ team collaboration, and maintain software quality throughout the project lifecyc
 - Apply best practices in version control and documentation
 
 ## Best Practices in Software Configuration Management
-1. **Use Clear Commit Messages** – Every commit should explain what was changed and why.
-2. **Branch for Every Feature** – Never work directly on the main branch.
-3. **Review Before Merging** – Always use pull requests to review code before merging.
-4. **Track Issues** – Use GitHub Issues to document bugs, tasks, and improvements.
-5. **Keep the Repository Organized** – Use labels, milestones, and assignments to 
-   manage work clearly.
-6. **Document Everything** – A good README helps others understand the project quickly.
+
+Software configuration management requires following key practices to ensure 
+project success. Always use descriptive commit messages to make change history 
+clear and understandable. Work on separate branches for each feature or fix to 
+keep the main branch stable. Use pull requests to review changes before merging 
+them into the main codebase. Track all tasks, bugs, and improvements through 
+issues to maintain transparency. Finally, keep documentation up to date so that 
+all team members can understand the project structure and guidelines at any time.
 
 ## Tools Used
 - GitHub (Version Control & Issue Tracking)
